@@ -1,0 +1,7 @@
+{
+    "svn.delete.ignoredRulesForDeletedFiles": [
+        "target\\classes\\application.properties",
+        "target\\test-classes\\com"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
